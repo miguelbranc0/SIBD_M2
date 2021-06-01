@@ -53,6 +53,7 @@ COMPRA (dataCompra, valorCompra, desconto (percentagem, valorAbsoluto, tipoDesco
 VENDEDOR (númeroVendedor, nomeVendedor)  
 DEPARTAMENTO (nomeDepartamento)  
 Associações  
+
 inclui(ESCRITÓRIO, DEPARTAMENTO)   
 comunicaCom(DEPARTAMENTO, VENDEDOR)  
 contém(LOJA, PRODUTO)  
