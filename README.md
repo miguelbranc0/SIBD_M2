@@ -62,3 +62,4 @@ faz(CLIENTE, COMPRAS)
 de(COMPRA, PRODUTO)  
 trabalhaEm(VENDEDOR, LOJA)  
 
+![image](https://user-images.githubusercontent.com/75800165/120381451-57878f80-c31a-11eb-89b7-d439064714a5.png)
