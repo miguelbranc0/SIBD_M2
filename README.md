@@ -84,6 +84,9 @@ Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
 ![image](https://user-images.githubusercontent.com/75800165/120383607-ff05c180-c31c-11eb-9afb-0c110ebf451d.png)
 
+![image](https://user-images.githubusercontent.com/75800165/120392172-01b9e400-c328-11eb-8698-7a131de315f8.png)
+
+
 
 
 
