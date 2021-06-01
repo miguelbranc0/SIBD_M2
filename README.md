@@ -86,6 +86,42 @@ Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
 ![image](https://user-images.githubusercontent.com/75800165/120392172-01b9e400-c328-11eb-8698-7a131de315f8.png)
 
+![image](https://user-images.githubusercontent.com/75800165/120393243-80635100-c329-11eb-9245-16a8b7c359d6.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120393325-a38e0080-c329-11eb-93e3-61b09530d751.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120393409-cb7d6400-c329-11eb-8afe-5ca20c862c7b.png)
+
+Da associação “contém”
+
+![image](https://user-images.githubusercontent.com/75800165/120393577-0e3f3c00-c32a-11eb-84ce-8f5ccb6d7c97.png)
+
+Da associação “tem”
+
+![image](https://user-images.githubusercontent.com/75800165/120393940-ac330680-c32a-11eb-8c88-6e346b51a6af.png)
+
+Da associação "inclui"
+
+![image](https://user-images.githubusercontent.com/75800165/120394013-c4a32100-c32a-11eb-9d77-8a1e41bd15a5.png)
+
+Da associação “trabalhaEm”
+
+![image](https://user-images.githubusercontent.com/75800165/120394175-f916dd00-c32a-11eb-83f0-bd5a18fe83b5.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120394294-1fd51380-c32b-11eb-9ff3-8a9d599fdf4b.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120394448-5743c000-c32b-11eb-8510-d7c79ac8f70a.png)
+
+Da associação  “faz” Compra
+
+
+
+
+
+
+
+
+
 
 
 
