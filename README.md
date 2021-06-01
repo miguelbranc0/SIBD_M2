@@ -72,3 +72,5 @@ Quando um cliente pretende trocar ou devolver um produto, o vendedor que o receb
 Em caso de troca, só a poderá efetuar se a compra tiver sido feita há menos de 30 dias. A data da compra indica este período. 
 Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
+# Modelo Relacional
+
