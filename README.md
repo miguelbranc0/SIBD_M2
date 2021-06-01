@@ -63,3 +63,12 @@ de(COMPRA, PRODUTO)
 trabalhaEm(VENDEDOR, LOJA)  
 
 ![image](https://user-images.githubusercontent.com/75800165/120381451-57878f80-c31a-11eb-89b7-d439064714a5.png)
+
+
+
+# Regras de Negócio Adicionais
+
+Quando um cliente pretende trocar ou devolver um produto, o vendedor que o recebe na loja acede à sua ficha de cliente para confirmar todos os dados da transação. 
+Em caso de troca, só a poderá efetuar se a compra tiver sido feita há menos de 30 dias. A data da compra indica este período. 
+Os produtos só são enviados para a loja quando o vendedor faz um pedido.
+
