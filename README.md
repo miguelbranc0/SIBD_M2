@@ -29,3 +29,35 @@ Utilizador: o utilizador deste sistema é um vendedor de uma das lojas que a mar
 
 
 Tendo em conta o seu cargo, este utilizador precisa de todas as informações acima descritas. 
+
+
+# MODELO EA
+
+
+Entidades: 
+PRODUTO
+LOJA
+ARMAZÉM
+ESCRITÓRIO
+CLIENTE 
+VENDEDOR
+DEPARTAMENTO
+COMPRA
+Atributos:
+PRODUTO (nomeProduto, família, referência, cor, tamanho, composição, quantidade)
+LOJA (moradaLoja (rua, numeroPorta, cidade, país), nomeLoja, númeroLoja)
+ARMAZÉM (moradaArmazem (rua, numeroPorta, cidade, país) númeroArmazem)
+ESCRITÓRIO (nomeEscritório, númeroEscritório, morada)
+CLIENTE (nome, númeroTLM, moradaCliente (rua, numeroPorta, cidade, país), idade, género)
+COMPRA (dataCompra, valorCompra, desconto (percentagem, valorAbsoluto, tipoDesconto))
+VENDEDOR (númeroVendedor, nomeVendedor)
+DEPARTAMENTO (nomeDepartamento)
+Associações
+inclui(ESCRITÓRIO, DEPARTAMENTO) 
+comunicaCom(DEPARTAMENTO, VENDEDOR)
+contém(LOJA, PRODUTO)
+tem(ARMAZEM, PRODUTO)
+faz(CLIENTE, COMPRAS)
+de(COMPRA, PRODUTO)
+trabalhaEm(VENDEDOR, LOJA)
+
