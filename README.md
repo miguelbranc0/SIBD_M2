@@ -110,8 +110,6 @@ Da associação “trabalhaEm”
 
 ![image](https://user-images.githubusercontent.com/75800165/120394175-f916dd00-c32a-11eb-83f0-bd5a18fe83b5.png)
 
-![image](https://user-images.githubusercontent.com/75800165/120394294-1fd51380-c32b-11eb-9ff3-8a9d599fdf4b.png)
-
 ![image](https://user-images.githubusercontent.com/75800165/120394448-5743c000-c32b-11eb-8510-d7c79ac8f70a.png)
 
 Da associação  “faz” Compra
