@@ -92,6 +92,8 @@ Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
 ![image](https://user-images.githubusercontent.com/75800165/120393409-cb7d6400-c329-11eb-8afe-5ca20c862c7b.png)
 
+##Relações das associações
+
 Da associação “contém”
 
 ![image](https://user-images.githubusercontent.com/75800165/120393577-0e3f3c00-c32a-11eb-84ce-8f5ccb6d7c97.png)
