@@ -290,6 +290,141 @@ Já está na 2NF
 
 ### Da Associação “trabalhaEm”
 
+![image](https://user-images.githubusercontent.com/75800165/120397735-c374f280-c330-11eb-8006-3aa7aa6895b3.png)
+
+1NF da Relação “Vendedor” Da associação “trabalhaEm”  
+Já está na 1NF  
+
+
+2NF da Relação “Vendedor” Da associação “trabalhaEm”  
+Já está na 2NF  
+
+## Relação “Vendedor”
+
+### Da Associação “comunicaCom”
+
+![image](https://user-images.githubusercontent.com/75800165/120397806-e901fc00-c330-11eb-863e-d79e010f2a66.png)
+
+
+1NF da Relação “Vendedor” Da associação “comunicaCom”  
+Já está na 1NF  
+
+
+2NF da Relação “Vendedor” Da associação “comunicaCom”  
+Já está na 2NF  
+
+## Relação “Compra”
+
+### Da Associação “faz”
+
+![image](https://user-images.githubusercontent.com/75800165/120397874-0b941500-c331-11eb-9dfa-95ed95c5d6a2.png)
+
+1NF da Relação “Compra” Da associação “faz”  
+Já está na 1NF  
+
+
+2NF da Relação “Compra” Da associação “faz”  
+Já está na 2NF  
+
+## Relação “Produto”
+
+### Da Associação “de”
+
+![image](https://user-images.githubusercontent.com/75800165/120397960-32eae200-c331-11eb-9403-cb623660227c.png)
+
+
+1NF da Relação “Produto” Da associação “de”  
+Já está na 1NF  
+
+
+2NF da Relação “Produto” Da associação “de”  
+Já está na 2NF  
+
+## Relação “Solicitar”
+
+### Da Associação “solicitaProdutoA”
+
+![image](https://user-images.githubusercontent.com/75800165/120398042-5877eb80-c331-11eb-9011-3fea02f64926.png)
+
+1NF da Relação “Solicitar” Da associação “solicitaProdutoA”  
+Já está na 1NF  
+
+
+2NF da Relação “Solicitar” Da associação “solicitaProdutoA”  
+Já está na 2NF  
+
+# SQL
+
+-	Disponibilidade de um sapato de um certo tamanho e modelo  
+
+SELECT: quantidade  
+FROM: Produto  
+WHERE: tamanho=37  
+AND nomeProduto=Hilary  
+
+
+
+-	Saber  composição deste produto (Hilary)  
+
+SELECT: composição  
+FROM: Produto  
+WHERE: nomeProduto =Hilary  
+
+
+
+-	Saber qual o escritório de Madrid  
+
+SELECT: *  
+FROM: Escritório  
+WHERE: nomeEscritorio = nEscritórioMadrid  
+
+
+
+
+
+
+-	Ver em que loja está o produto  
+
+SELECT: #nímeroloja  loja  
+FROM: OProduto  
+WHERE: referência = 1  
+AND quantidade = 1  
+AND tamanho = 37  
+
+
+-	Saber em que armazéns há sapatos altos  
+
+SELECT: #numeroArmazém --> Armazem  
+FROM: Produto  
+WHERE: familia = SapatoAlto  
+
+
+
+-	Consultar pedidos de transferência de um armazém  
+
+SELECT: #referÊncia --> Produto  
+FROM: Solicitar  
+WHERE: #númeroArmazem  Armazém = 2  
+
+
+
+
+
+
+-	Consultar compras de um cliente.  
+
+SELECT: refCompra  
+FROM: Compras  
+WHERE: #numeroTLM  Cliente = 917564935  
+
+
+
+
+
+
+
+
+
 
 
 
