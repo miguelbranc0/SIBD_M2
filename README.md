@@ -160,6 +160,22 @@ nomeLoja-->numeroPorta
 nomeLoja-->cidade  
 nomeLoja-->país  
 
+![image](https://user-images.githubusercontent.com/75800165/120396482-87409280-c32e-11eb-82a7-1d6c99b6fc41.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120396517-932c5480-c32e-11eb-86c8-94b906bb74b1.png)
+
+## Relação “Armazém”
+
+![image](https://user-images.githubusercontent.com/75800165/120396562-a7705180-c32e-11eb-91f7-b3f08a4c7bcd.png)
+
+1NF da Relação “Armazém”  
+Já está na 1NF  
+
+2NF da Relação “Armazém”  
+Já está na 2NF  
+
+3NF da Relação “Armazém”  
+Já está na 3NF  
 
 
 
