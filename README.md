@@ -34,9 +34,9 @@ Tendo em conta o seu cargo, este utilizador precisa de todas as informações ac
 # MODELO EA
 
 
-Entidades: 
-PRODUTO
-LOJA
+Entidades:   
+PRODUTO  
+LOJA  
 ARMAZÉM
 ESCRITÓRIO
 CLIENTE 
