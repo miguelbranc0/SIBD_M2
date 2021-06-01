@@ -114,6 +114,57 @@ Da associação “trabalhaEm”
 
 Da associação  “faz” Compra
 
+![image](https://user-images.githubusercontent.com/75800165/120395410-d7b6f080-c32c-11eb-80ba-577c3d23b2e7.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120395559-164cab00-c32d-11eb-84e0-ca6d89f2c920.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120395646-3bd9b480-c32d-11eb-85c6-6ddd1f1b1874.png)
+
+# Normalização
+
+## Relação “Produto”
+
+![image](https://user-images.githubusercontent.com/75800165/120395748-70e60700-c32d-11eb-9be9-e798f5029267.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120395840-92df8980-c32d-11eb-8df4-de4e40b65a1e.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120395866-9e32b500-c32d-11eb-8967-78d3151920eb.png)
+
+
+2NF da Relação “Produto”  
+Já está na 2NF
+
+3NF da Relação “Produto”  
+
+nomeProduto -> cor  
+nomeProdutofamília
+
+![image](https://user-images.githubusercontent.com/75800165/120395986-cd492680-c32d-11eb-96b9-d139776c66f5.png)
+
+![image](https://user-images.githubusercontent.com/75800165/120396043-dcc86f80-c32d-11eb-97f3-243a898c785b.png)
+
+## Relação “Loja”
+
+![image](https://user-images.githubusercontent.com/75800165/120396141-f669b700-c32d-11eb-9b0f-3fdc228ca0b6.png)
+
+1NF da Relação “Loja”  
+Já está na 1NF  
+
+2NF da Relação “Loja”  
+Já está na 2NF  
+
+3NF da Relação “Loja”  
+
+nomeLoja-->rua  
+nomeLoja-->numeroPorta  
+nomeLoja-->cidade  
+nomeLoja-->país  
+
+
+
+
+
+
 
 
 
