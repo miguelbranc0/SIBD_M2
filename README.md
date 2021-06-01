@@ -34,7 +34,7 @@ Tendo em conta o seu cargo, este utilizador precisa de todas as informações ac
 # MODELO EA
 
 
-Entidades:   
+## Entidades:   
 PRODUTO  
 LOJA    
 ARMAZÉM  
@@ -52,7 +52,7 @@ CLIENTE (nome, númeroTLM, moradaCliente (rua, numeroPorta, cidade, país), idad
 COMPRA (dataCompra, valorCompra, desconto (percentagem, valorAbsoluto, tipoDesconto))  
 VENDEDOR (númeroVendedor, nomeVendedor)  
 DEPARTAMENTO (nomeDepartamento)  
-Associações  
+## Associações  
 
 inclui(ESCRITÓRIO, DEPARTAMENTO)   
 comunicaCom(DEPARTAMENTO, VENDEDOR)  
