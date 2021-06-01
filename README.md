@@ -175,7 +175,28 @@ Já está na 1NF
 Já está na 2NF  
 
 3NF da Relação “Armazém”  
-Já está na 3NF  
+Já está na 3NF
+
+## Relação “Escritório”
+
+![image](https://user-images.githubusercontent.com/75800165/120396651-d981b380-c32e-11eb-8c42-c61e59dc8c88.png)
+
+1NF da Relação “Escritório”   
+ Já está na 1NF  
+
+2NF da Relação “Escritório”   
+Já está na 2  
+
+3NF da Relação “Escritório”  
+
+![image](https://user-images.githubusercontent.com/75800165/120396753-0209ad80-c32f-11eb-86da-753513a9198c.png)
+
+## Relação “Cliente”
+
+![image](https://user-images.githubusercontent.com/75800165/120396838-28c7e400-c32f-11eb-81ac-0af453808da9.png)
+
+
+
 
 
 
