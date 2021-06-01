@@ -74,3 +74,6 @@ Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
 # Modelo Relacional
 
+## Relações a partir das Entidades
+
+
