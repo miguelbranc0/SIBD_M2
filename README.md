@@ -76,4 +76,7 @@ Os produtos só são enviados para a loja quando o vendedor faz um pedido.
 
 ## Relações a partir das Entidades
 
+![image](https://user-images.githubusercontent.com/75800165/120383000-3c1d8400-c31c-11eb-9d3b-84423134668c.png)
+
+
 
