@@ -195,6 +195,113 @@ Já está na 2
 
 ![image](https://user-images.githubusercontent.com/75800165/120396838-28c7e400-c32f-11eb-81ac-0af453808da9.png)
 
+1NF da Relação “Cliente”   
+Já está na 1NF  
+
+2NF da Relação “Cliente”   
+Já está na 2NF  
+
+3NF da Relação “Cliente”   
+Já está na 3NF  
+
+## Relação “Compra”
+
+![image](https://user-images.githubusercontent.com/75800165/120397009-79d7d800-c32f-11eb-8225-31e467030c90.png)
+
+1NF da Relação “Compra”  
+Já está na 1NF  
+
+2NF da Relação “Compra”  
+Já está na 2NF  
+
+3NF da Relação “Compra”  
+
+percentagemDesconto-->valorAbsolutoDesconto  
+
+(o tipoDesconto não depende nem está dependente de nada. É uma indicação fornecida à parte sobre o tipo de desconto)  
+
+![image](https://user-images.githubusercontent.com/75800165/120397117-9e33b480-c32f-11eb-8954-c77f2f1e5168.png)
+
+## Relação “Vendedor”
+
+![image](https://user-images.githubusercontent.com/75800165/120397154-af7cc100-c32f-11eb-9733-8149ce7c7647.png)
+
+1NF da Relação “Vendedor”  
+Já está na 1NF  
+
+2NF da Relação “Vendedor”  
+Já está na 2NF  
+ 
+3NF da Relação “Vendedor”  
+Já está na 3NF  
+
+## Relação “Departamento”
+
+![image](https://user-images.githubusercontent.com/75800165/120397206-ca4f3580-c32f-11eb-8ff7-da08eec91ce9.png)
+
+1NF da Relação “Departamento”  
+Já está na 1NF  
+
+2NF da Relação “Departamento”  
+Já está na 2NF  
+
+3NF da Relação “Departamento”  
+Já está na 3NF  
+
+## Relação “Produto”
+
+### Da Associação “contém”
+
+1NF da Relação “Produto” Da associação “contém”  
+
+númeroLoja depende de tamanho  
+tamanho --> númeroLoja  
+
+![image](https://user-images.githubusercontent.com/75800165/120397341-1a2dfc80-c330-11eb-922e-b94de8595097.png)
+
+2NF da Relação “Produto” Da associação “contém”  
+Já está na 2NF  
+
+## Relação “Produto”
+
+### Da Associação “tem”
+
+1NF da Relação “Produto” Da associação “tem”
+
+![image](https://user-images.githubusercontent.com/75800165/120397485-4e092200-c330-11eb-86ec-d43ebd6cfb8c.png)
+
+2NF da Relação “Produto” Da associação “tem”  
+Já está na 2NF  
+
+## Relação “Departamento”
+
+### Da Associação “inclui”
+
+![image](https://user-images.githubusercontent.com/75800165/120397595-7d1f9380-c330-11eb-8346-8595ab15c4c1.png)
+
+1NF da Relação “Departamento” Da associação “inclui”  
+Já está na 1NF  
+
+
+2NF da Relação “Departamento” Da associação “inclui”  
+Já está na 2NF  
+
+## Relação “Vendedor”
+
+### Da Associação “trabalhaEm”
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
