@@ -6,7 +6,7 @@ Desenvolvido pelo grupo SIBD04 : Bárbara Oliveira, Miguel Branco , Paula Rocha.
 ## Grupo SIBD04 #
 -  Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
 * Other team members
-- A037262 Bárbara Oliveira [a037262Barbara](https://github.com/a037262Barbara)
+- A037262 Bárbara Oliveira,  [a037262Barbara](https://github.com/a037262Barbara)
 -	A037005 [Miguel Branco](https://github.com/miguelbranc0)
 -	A037353 [Paula Rocha](https://github.com/PaulaVieiraRocha) 
 
