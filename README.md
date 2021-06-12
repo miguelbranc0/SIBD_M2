@@ -2,7 +2,12 @@
 
 Repositório para acolher o projeto desenvolvido para  Sistemas de Informação e Base de Dados, disciplina do segundo ano do ISMAI.
 Desenvolvido pelo grupo SIBD04 : Bárbara Oliveira, Miguel Branco , Paula Rocha.
+
+
+
+*  C1 : [ apresentação do projeto ] (doc / c1.md)
 # C1: VENDE+ #  
+
 ## Grupo SIBD04 #
 - Marco Amaro Oliveira @MarcoOliveira 
 - A037262 Bárbara Oliveira  @a037262Barbara
