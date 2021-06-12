@@ -1,5 +1,8 @@
 # SIBD_M2
-# Proposta de trabalho
+# C1: VENDE+ #
+# Grupo SIBD04 #
+
+#  Descrição #
 Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma base de dados que contempla:
 
 - características do produto (nome, família, referência, cor, tamanho nas diferentes escalas, composição/materiais);
