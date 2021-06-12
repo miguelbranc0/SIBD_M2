@@ -1,12 +1,12 @@
 # SIBD_M2
 # C1: VENDE+ #  
-# Grupo SIBD04 #
-- Marco Amaro Oliveira @MarcoOliveira  
-- A037262 Bárbara Oliveira +a037262Barbara
+## Grupo SIBD04 #
+- Marco Amaro Oliveira @MarcoOliveira 
+- A037262 Bárbara Oliveira  @a037262Barbara
 -	A037005 Miguel Branco
 -	A037353 Paula Rocha
 
-#  Descrição #
+##  Descrição #
 Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma base de dados que contempla:
 
 - características do produto (nome, família, referência, cor, tamanho nas diferentes escalas, composição/materiais);
@@ -21,6 +21,7 @@ Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma bas
 
 É uma marca de sapatos americana com uma sede administrativa na península ibérica e fabrico em vários países como a China e o Brasil.
 
+# C2: Interface do usuário
 # Utilizador
 
 Utilizador: o utilizador deste sistema é um vendedor de uma das lojas que a marca possui na Península Ibérica. No seu dia-a-dia, o vendedor tem de:
