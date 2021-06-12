@@ -3,9 +3,7 @@
 ## Grupo SIBD04 #
 - Marco Amaro Oliveira @MarcoOliveira 
 - A037262 Bárbara Oliveira  @a037262Barbara
--	A037005  
--	
--	  [Miguel Branco] (https://github.com/miguelbranc0)
+-	A037005 Miguel Branco
 -	A037353 Paula Rocha
 
 ##  Descrição #
