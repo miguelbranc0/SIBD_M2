@@ -1,6 +1,10 @@
 # SIBD_M2
-# C1: VENDE+ #
+# C1: VENDE+ #  
 # Grupo SIBD04 #
+- Marco Amaro Oliveira @MarcoOliveira  
+- A037262 Bárbara Oliveira @a037262Barbara
+-	A037005 Miguel Branco
+-	A037353 Paula Rocha
 
 #  Descrição #
 Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma base de dados que contempla:
