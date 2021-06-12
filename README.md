@@ -2,17 +2,13 @@
 
 Repositório para acolher o projeto desenvolvido para  Sistemas de Informação e Base de Dados, disciplina do segundo ano do ISMAI.
 Desenvolvido pelo grupo SIBD04 : Bárbara Oliveira, Miguel Branco , Paula Rocha.
-
-
-
-*  C1 : [ apresentação do projeto ] (doc / c1.md)
 # C1: VENDE+ #  
-
 ## Grupo SIBD04 #
-- Marco Amaro Oliveira @MarcoOliveira 
-- A037262 Bárbara Oliveira  @a037262Barbara
+-  Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
+* Other team members
+- A037262 Bárbara Oliveira [a037262Barbara](https://github.com/a037262Barbara)
 -	A037005 [Miguel Branco](https://github.com/miguelbranc0)
--	A037353 Paula Rocha
+-	A037353 [Paula Rocha](https://github.com/PaulaVieiraRocha) 
 
 ##  Descrição #
 Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma base de dados que contempla:
