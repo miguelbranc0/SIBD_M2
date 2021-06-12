@@ -436,7 +436,27 @@ FROM: Compras
 WHERE: #numeroTLM  Cliente = 917564935  
 
 
+# C3: Produto
+descrição do produto
 
+## Instalação
+maneira correta de instalar o produto. Comece verificando o projeto no Github.
+
+## Uso
+instruções de uso, como autenticação necessária ou limitações do produto
+
+## Ajuda do Aplicativo / Produto
+dicas visuais para ajudar na navegação? Cores do código? Dicas de ferramentas que ajudam o usuário a navegar no site?
+Descreva como a interface gráfica é organizada e como o usuário pode se mover.
+
+## Formulários
+Se houver, como você está validando a entrada do usuário nos formulários? Descreva com exemplos.
+
+## Validação  de HTML5 E CSS3
+Descreva o método usado para validar HTML e CSS. Não se esqueça de adicionar detalhes sobre os validadores usados. Mostre os resultados da validação. Adicione imagens, tabelas ou relatórios dos testes realizados.
+
+## Detalhes da Implementação
+Mostre aqui como você cumpriu os objetivos mínimos exigidos e quais elementos de valorização você agregou ao seu trab
 
 
 
