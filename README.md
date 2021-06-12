@@ -22,7 +22,12 @@ Pretendemos abordar o sistema de vendas de uma marca de sapatos, criando uma bas
 É uma marca de sapatos americana com uma sede administrativa na península ibérica e fabrico em vários países como a China e o Brasil.
 
 # C2: Interface do usuário
-# Utilizador
+
+## Interface e Recursos Comuns
+### Sketchs
+
+
+## Utilizador
 
 Utilizador: o utilizador deste sistema é um vendedor de uma das lojas que a marca possui na Península Ibérica. No seu dia-a-dia, o vendedor tem de:
 -	esclarecer os clientes em relação aos produtos – disponibilidade, composição, tamanhos etc.; 
@@ -69,6 +74,8 @@ tem(ARMAZEM, PRODUTO)
 faz(CLIENTE, COMPRAS)  
 de(COMPRA, PRODUTO)  
 trabalhaEm(VENDEDOR, LOJA)  
+
+## Mapa  do site
 
 ![image](https://user-images.githubusercontent.com/75800165/120381451-57878f80-c31a-11eb-89b7-d439064714a5.png)
 
