@@ -1,4 +1,7 @@
 # SIBD_M2
+
+Repositório para acolher o projeto desenvolvido para  Sistemas de Informação e Base de Dados, disciplina do segundo ano do ISMAI.
+Desenvolvido pelo grupo SIBD04 : Bárbara Oliveira, Miguel Branco , Paula Rocha.
 # C1: VENDE+ #  
 ## Grupo SIBD04 #
 - Marco Amaro Oliveira @MarcoOliveira 
