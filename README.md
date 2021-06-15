@@ -375,26 +375,19 @@ Já está na 2NF
 
 -	Disponibilidade de um sapato de um certo tamanho e modelo  
 
-SELECT: quantidade  
-FROM: Produto  
-WHERE: tamanho=37  
-AND nomeProduto=Hilary  
-
-
-
--	Saber  composição deste produto (Hilary)  
-
-SELECT: composição  
-FROM: Produto  
-WHERE: nomeProduto =Hilary  
-
+SELECT quantidade, produto.produtos  
+FROM tamanhos  
+FULL right JOIN produto ON Produto=referência    
+WHERE tamanho=35  
+AND produto.produtos='Hilary' ;  
 
 
 -	Saber qual o escritório de Madrid  
 
-SELECT: *  
-FROM: Escritório  
-WHERE: nomeEscritorio = nEscritórioMadrid  
+SELECT *  
+FROM nescritorio  
+WHERE nomeEscritório = 'EscritórioMadrid'  
+
 
 
 
@@ -403,26 +396,27 @@ WHERE: nomeEscritorio = nEscritórioMadrid
 
 -	Ver em que loja está o produto  
 
-SELECT: #nímeroloja  loja  
-FROM: OProduto  
-WHERE: referência = 1  
-AND quantidade = 1  
+SELECT loja  
+FROM tamanhos  
+WHERE Produto = 3  
 AND tamanho = 37  
 
 
 -	Saber em que armazéns há sapatos altos  
 
-SELECT: #numeroArmazém --> Armazem  
-FROM: Produto  
-WHERE: familia = SapatoAlto  
+SELECT Produto  
+FROM Solicitar  
+WHERE Armazém = 2  
 
 
 
 -	Consultar pedidos de transferência de um armazém  
 
-SELECT: #referÊncia --> Produto  
-FROM: Solicitar  
-WHERE: #númeroArmazem  Armazém = 2  
+SELECT Produto, armazém, produtos.família
+FROM tamanhos
+INNER JOIN produto ON produto.referência=Produto
+INNER JOIN produtos ON produto.produtos = produtos.nomeProduto
+WHERE família = "SapatoAlto"
 
 
 
@@ -431,9 +425,10 @@ WHERE: #númeroArmazem  Armazém = 2
 
 -	Consultar compras de um cliente.  
 
-SELECT: refCompra  
-FROM: Compras  
-WHERE: #numeroTLM  Cliente = 917564935  
+SELECT *  
+FROM Compra  
+WHERE Cliente = 917564935  
+
 
 
 # C3: Produto
