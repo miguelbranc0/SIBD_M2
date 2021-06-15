@@ -412,11 +412,11 @@ WHERE Armazém = 2
 
 -	Consultar pedidos de transferência de um armazém  
 
-SELECT Produto, armazém, produtos.família
-FROM tamanhos
-INNER JOIN produto ON produto.referência=Produto
-INNER JOIN produtos ON produto.produtos = produtos.nomeProduto
-WHERE família = "SapatoAlto"
+SELECT Produto, armazém, produtos.família  
+FROM tamanhos  
+INNER JOIN produto ON produto.referência=Produto  
+INNER JOIN produtos ON produto.produtos = produtos.nomeProduto  
+WHERE família = "SapatoAlto"  
 
 
 
