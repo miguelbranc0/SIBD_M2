@@ -373,6 +373,36 @@ Já está na 2NF
 
 # SQL
 
+## DDL
+
+(SQL para criação do esquema definido acima no SGBD MySQL.)  
+
+![image](https://user-images.githubusercontent.com/75800165/122130473-94ca4200-ce2f-11eb-82ba-bcf68bba35c2.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130494-9d227d00-ce2f-11eb-9e1c-5d27178b0f2d.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130519-a7447b80-ce2f-11eb-8386-78b08dbb886c.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130539-b0354d00-ce2f-11eb-9f07-646d03fab8b0.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130565-ba574b80-ce2f-11eb-813c-af21a447e959.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130586-c3e0b380-ce2f-11eb-88bf-8ebf0ffc5170.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130605-cba05800-ce2f-11eb-8d1a-0c039f883035.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130622-d2c76600-ce2f-11eb-8223-04a4d0334324.png)
+
+![image](https://user-images.githubusercontent.com/75800165/122130635-da870a80-ce2f-11eb-8d3f-6aa6a5c7bfa2.png)
+
+
+![image](https://user-images.githubusercontent.com/75800165/122130652-e246af00-ce2f-11eb-923a-2630a7ee71fa.png)
+
+
+![image](https://user-images.githubusercontent.com/75800165/122130670-e8d52680-ce2f-11eb-84ff-fcb75ad013d5.png)
+
+
+
 -	Disponibilidade de um sapato de um certo tamanho e modelo  
 
 SELECT quantidade, produto.produtos  
